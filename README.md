@@ -1,49 +1,53 @@
-<h1 align="center">Hey 👋, I'm Jaisurya</h1>
-<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Life-long Learner</h3>
+<h1 align="center">Hi 👋, I'm Jaisurya</h1>
+<h3 align="center">Aspiring Data Analyst | ML & AI Explorer | Full-Stack Learner | Open to Internships</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Turning+data+into+insights...;Learning+Machine+Learning...;Leveling+up+every+day!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Data+Driven.+Growth+Focused.;Python%2C+Power+BI%2C+ML%2C+SQL...;Leveling+Up+1%25+Every+Day!🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Self-Driving Car Object Detection using SSD**
-- 🌱 I’m learning **Deep Learning, Data Engineering**
-- 👯 Collaborating on **HR Data Analysis Project (DEPI x eYouth)**
-- 💬 Ask me about **Data Analysis, Python, SQL, ML, and Dashboards**
-- ⚡ Fun fact: I run on coffee and code ☕💻
+- 🎓 College student passionate about **Data Science**, **AI**, and **Software Engineering**
+- 💼 Open to **internships** in **Data Analysis / Python Development / Machine Learning**
+- 🧠 Currently working on:
+  - **Self-Driving Car Object Detection** using SSD
+  - **HR Analytics** project for DEPI x eYouth
+- 🌱 Learning: **Deep Learning**, **Dashboard Design**, **Java for App Dev**
+- ✍️ Sharing my learning journey through **projects** and **collaborations**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 🚀 Projects That Represent Me
+
+- 🧠 [**Time-Series-Analysis-Laboratory**](https://github.com/JaisuryaB/Time-Series-Analysis-Laboratory) — Time series forecasting with ARIMA, Prophet, and real datasets
+- 🏨 [**Hotel Management System**](https://github.com/JaisuryaB/HOTEL-MANAGEMENT-SYSTEM) — Core Java project simulating hotel operations
+- 📱 [**Android Login UI**](https://github.com/JaisuryaB/Android_Login_UI) — Simple and aesthetic UI for mobile login
+- 🤖 [**Self-Driving SSD Detection**] — In progress: object detection using Udacity dataset + SSD + pretrained models
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaisuryaB&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaisuryaB&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -51,39 +55,35 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JaisuryaB&theme=algolia&margin-w=10&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-
-
-## 📈 GitHub Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaisuryaB&theme=dracula" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jai-surya-b-58a818258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/your-instagram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your.221501052@rajalakshmi.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jai-surya-b-58a818258"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JaisuryaB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 Quote to live by:
+## 💬 Quote That Drives Me
 
-> _"It always seems impossible until it’s done"_
+> _“Fall seven times, stand up eight.”_ — *Japanese Proverb*
 
 ---
 
-<p align="center">Thanks for stopping by! 🙌<br>Keep grinding and growing 🌱🚀</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
+  Thanks for visiting! 🙌 Let’s build something awesome together.  
 </p>
